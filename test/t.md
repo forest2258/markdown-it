@@ -1,1 +1,1 @@
-[Check FAQ](../../README.md)
+[Check FAQ](././README.md)
