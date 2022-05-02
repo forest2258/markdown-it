@@ -1,0 +1,1 @@
+[Check FAQ](./README.md)
